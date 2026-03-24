@@ -12,3 +12,4 @@ def my_func(arr: list) -> list:
 
 print(my_func(['abc', 'a b  c', 'a', 'zxca']))
 
+
