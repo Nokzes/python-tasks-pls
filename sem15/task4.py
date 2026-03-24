@@ -9,7 +9,6 @@ def hackers_def(hackers: list, security_level: int, increase: int) -> int:
     return res
 
 print(hackers_def([5, 4, 2, 7, 8], 3, 1))
-
-
+print(hackers_def([], 3, 1))
 
 
