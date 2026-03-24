@@ -17,5 +17,5 @@ def my_func(st: str):
 print(my_func('1,2,3,4'))
 print(my_func('1,3,4,5'))
 print(my_func('123124'))
-
+print(my_func('4,5,6,7'))
 
